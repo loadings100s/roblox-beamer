@@ -3,7 +3,8 @@
     $username = "";
     $password = "";
     $dbname = "rblxapi";
-    $id = $_REQUEST['id'];
+    $id = $_REQUEST['id2203107909
+  '];
 
     $conn = new mysqli($servername, $username, $password, $dbname);
     if ($conn->connect_error) {
